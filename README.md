@@ -1,9 +1,9 @@
- 📊 Analyse Prédictive des Ventes
+### 📊 Analyse Prédictive des Ventes
 
 Bienvenue dans mon premier projet GitHub 
 Ce dépôt contient une analyse exploratoire et prédictive des ventes basée sur un jeu de données de type retail. Il combine Python (pandas, scikit-learn, plotly) pour l’analyse et Power BI pour la visualisation interactive.
 
-🎯 Objectifs
+## 🎯 Objectifs
 
 Comprendre les tendances de vente passées
 
@@ -11,7 +11,7 @@ Créer des visualisations interactives (Python & Power BI)
 
 Construire un modèle de prédiction de ventes (machine learning)
 
-🗂️ Structure du projet
+## 🗂️ Structure du projet
 
 projet-vente/
 ├── data/                  # Données brutes CSV
@@ -21,16 +21,16 @@ projet-vente/
 ├── README.md              # Ce fichier de présentation
 ├── requirements.txt       # Liste des packages Python 
 
-📁 Données utilisées
+##📁 Données utilisées
 
 Source du jeu de données:https://www.kaggle.com/datasets/pratyushakar/rossmann-store-sales?select=store.csv
 
 Le jeu de données  comprend :
-## 📂 Détails des fichiers et des variables
+# 📂 Détails des fichiers et des variables
 
 Le dataset **Rossmann Store Sales** contient des données historiques pour 1 115 magasins. Le but est de prédire la variable `Sales` pour le jeu de test.
 
-### 📁 Fichiers disponibles
+# 📁 Fichiers disponibles
 
 | Nom du fichier        | Description |
 |-----------------------|-------------|
@@ -41,7 +41,7 @@ Le dataset **Rossmann Store Sales** contient des données historiques pour 1 115
 
 ---
 
-### 🧾 Description des variables
+# 🧾 Description des variables
 
 | Variable                         | Description |
 |----------------------------------|-------------|
@@ -71,7 +71,7 @@ Le dataset **Rossmann Store Sales** contient des données historiques pour 1 115
 
 Ce jeu est utilisé pour explorer, visualiser et prédire les tendances commerciales.
 
-📊 Outils utilisés
+## 📊 Outils utilisés
 
 Python (pandas, seaborn, matplotlib, plotly)
 
@@ -79,7 +79,7 @@ scikit-learn (modèles de prédiction)
 
 Power BI (tableau de bord interactif)
 
- Méthodologie
+## Méthodologie
 
 Nettoyage et transformation des données
 
@@ -87,7 +87,7 @@ Visualisation dynamique
 
 Mesures d’évaluation : RMSE, MAE
 
-📌 Statut du projet
+##📌 Statut du projet
 
 En cours de développement 
 
@@ -95,7 +95,7 @@ En cours de développement
 
 Marie Justine Ntsogo
 
-💡 Prochaines étapes
+##💡 Prochaines étapes
 
 Ajouter un modèle de prédiction
 
